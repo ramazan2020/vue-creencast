@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">Ramazan POLAT</h1>
-      <h2 class="subtitle">yeh</h2>
+      <h2 class="subtitle">test</h2>
     </div>
   </div>
 </template>
